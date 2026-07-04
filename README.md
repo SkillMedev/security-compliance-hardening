@@ -9,7 +9,7 @@ Reach for this when you own security for an engineering team and need to harden 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/security-compliance-hardening](https://skillme.dev/pack/security-compliance-hardening) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/security-compliance-hardening`
+- **With the skills CLI:** `npx skills add SkillMedev/security-compliance-hardening`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
